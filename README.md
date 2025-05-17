@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project about books<br>🤝 I'm open to collaborating on interesting project and with friendly team...<br>🌱 I’m currently learning TypeScript , Nextjs , Docker , Nodejs , Expressjs<br>💬 Ask me about Frontend<br>⚡ Nothing else😂
+🔭 I’m currently working on project about books<br>🤝 I'm open to collaborating on interesting project and with friendly team...<br>🌱 I’m currently learning TypeScript , Nextjs , Docker , Nodejs , Expressjs<br>💬 Ask me about Frontend<br>⚡ Nothing else 🤷‍♂️
 
 
 ## 🌐 Socials:
